@@ -1,5 +1,5 @@
 # Auto-statistical-table
-Generate formatted descriptive statistical tables of the dataset in batch.
+[stat_tab.R](https://github.com/random-git/Auto-statistical-table/blob/main/stat_tab.R) generates formatted descriptive statistical tables of the dataset in batch.
 
 
 ### Example of input data ([testdf.xlsx](https://github.com/random-git/Auto-statistical-table/blob/main/testdf.xlsx)) is shown as below:
