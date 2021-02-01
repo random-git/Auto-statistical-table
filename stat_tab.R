@@ -2,7 +2,8 @@
 #Generate formatted descriptive statistical tables of the dataset in batch
 library(readxl)
 #load data
-setwd("C:/Users/M-U-h/Google Drive/SurfacePro4_Backup/Desktop/Dissertation/aim2_cluster/Code")
+#change the working directory as necessary
+setwd("...")
 
 df_test = read_excel("testdf.xlsx")
 
