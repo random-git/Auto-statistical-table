@@ -7,11 +7,11 @@
 
 ### Demo
 #### Enter list of varialbes for subgroup comparisons:
-```ruby
+```R
 var_list = c("var8","var9","var10","var11")
 ```
 #### Call the function:
-```ruby
+```R
 dec_tab(var_list)
 ```
 summary of continous variables will be saved as [continous_summary.xlsx](https://github.com/random-git/Auto-statistical-table/blob/main/continous_summary.xlsx) and categorical variables as [categorical_summary.xlsx](https://github.com/random-git/Auto-statistical-table/blob/main/categorical_summary.xlsx). Sample outputs are shown as:<br/>
